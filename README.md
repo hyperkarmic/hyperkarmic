@@ -1,6 +1,6 @@
 ### This is my first commit!!!! 👋
 
-[![Header](https://raw.githubusercontent.com/hyperkarmic/<OWNER>/<OWNER>/simon.svg "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/hyperkarmic/<OWNER>/<OWNER>/simon.jpg "Header")](https://some-url.dev/)
 
 <!--
 **hyperkarmic/hyperkarmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
