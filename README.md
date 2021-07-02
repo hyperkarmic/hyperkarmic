@@ -8,7 +8,7 @@ I'm Simon. I'm a developer from Manchester, England. I recently finished a codin
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black>) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node-dot-js&logoColor=white) ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=black&color=2bbc8a/>) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB") ![](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white>) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node-dot-js&logoColor=white) ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=black&color=2bbc8a/>) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB") ![](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 <!--
 **hyperkarmic/hyperkarmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
