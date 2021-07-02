@@ -19,16 +19,15 @@ Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧
 
 ## 🧮 GitHub Stats 🧮
 
-&nbsp;
-
 <a href="https://github.com/hyperkarmic/hyperkarmic">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyperkarmic&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Simon Myers's GitHub Stats" />
 </a>
 &nbsp;
+&nbsp;
 
 ## 🧑‍💻 Codewars Stats 📈
 
-- when preparing for bootcamp I spent a lot of time on codewars. I learned a lot and really enjoyed it😺!!!
+- when preparing for bootcamp I spent a lot of time on codewars. I learned a lot and had a great time learning it😺!!!
 
 ![Alt Text](./codewars.jpg)
 &nbsp;
