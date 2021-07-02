@@ -10,7 +10,7 @@ I'm Simon. I'm a developer from Manchester, England. I recently finished a codin
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
-![](//img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white")
+![](//img.shields.io/badge/html5?style=for-the-badge&logo=html5&logoColor=white")
 
 <!--
 **hyperkarmic/hyperkarmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
