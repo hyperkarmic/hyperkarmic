@@ -17,6 +17,9 @@ Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧
 - 🌱 I’m currently learning - ![](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)Vue, and working my darn hardest to deepen my knowledge of algorithms and data-structures
 - ⚡ Fun fact: I share my birthday with Whoopi Goldberg!
 
+&nbsp;
+chart_with_upwards_trend GitHub Stats chart_with_upwards_trend
+
 <!--
 **hyperkarmic/hyperkarmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
