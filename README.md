@@ -8,7 +8,7 @@ I'm Simon. I'm a developer from Manchester, England. I recently finished a codin
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node-dot-js&logoColor=white") ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=black"/>)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node-dot-js&logoColor=white") ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=black"&color=2bbc8a/>)
 
 <!--
 **hyperkarmic/hyperkarmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
