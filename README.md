@@ -18,7 +18,9 @@ Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧
 - ⚡ Fun fact: I share my birthday with Whoopi Goldberg!
 
 &nbsp;
-##📈 GitHub Stats 📈
+
+## 📈 GitHub Stats 📈
+
 &nbsp;
 &nbsp;
 
