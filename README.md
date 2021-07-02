@@ -32,6 +32,10 @@ Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧
 
 ![Alt Text](./codewars.jpg)
 
+## 📈 Leetcode Stats 📈
+
+![Alt Text](./codewars.jpg)
+
 <!--
 **hyperkarmic/hyperkarmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
