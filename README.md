@@ -1,6 +1,6 @@
 ### This is my first commit!!!! 👋
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://scontent.fman2-1.fna.fbcdn.net/v/t1.6435-9/211740740_10161365700035031_7415347136007861351_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=vq62_ZS3ZAEAX_3Sf-l&tn=CPLMNQlGA3lfzFqG&_nc_ht=scontent.fman2-1.fna&oh=d492a7045b1247d5d88e0a072fae415a&oe=60E3BB76)
 
 <!--
 **hyperkarmic/hyperkarmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
