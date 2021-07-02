@@ -2,7 +2,7 @@
 
 # 💻🌎Hello world!!!🌎💻
 
-Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧️☂️. I recently finished a coding bootcamp. I'm presently honing my skills - and looking forward to starting my first coding job in the near future! 43 years on planet Earth - it's time⌚!
+Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧️☂️. I recently finished a coding bootcamp. I'm presently honing my skills - and looking forward to starting my first coding job in the near future! 43 years on planet Earth - it's time⌚ to move onwards and upwards to my dream career!
 
 ## 🔧 Tech & tools I use to build stuff 🔧
 
@@ -17,7 +17,7 @@ Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧
 
 &nbsp;
 
-## 📈 GitHub Stats 📈
+## 🧮 GitHub Stats 🧮
 
 &nbsp;
 
@@ -26,16 +26,16 @@ Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧
 </a>
 &nbsp;
 
-## 📈 Codewars Stats 📈
+## 🧑‍💻 Codewars Stats 📈
 
-- when preparing for bootcamp I spent a lot of time on codewars. I learned a lot and really enjoyed it!!!
+- when preparing for bootcamp I spent a lot of time on codewars. I learned a lot and really enjoyed it😺!!!
 
 ![Alt Text](./codewars.jpg)
 &nbsp;
 
-## 📈 Leetcode Stats 📈
+## 🖱️ Leetcode Stats 📈
 
-- Currently, I do at least one coding kata per day, on top of my technical reading, and project development. I've found Leetcode to be a brilliant resource. As you can see...I've been busy!!!
+- Currently, I do at least one coding kata per day🖥️, on top of my technical reading📖, and project development⌨️. I've found Leetcode to be a brilliant resource. As you can see...I've been busy💪!!!
 
 ![Alt Text](./leetstats.jpg)
 
