@@ -1,5 +1,3 @@
-### This is my first commit!!!! 👋
-
 ![Alt Text](https://scontent.fman2-1.fna.fbcdn.net/v/t1.6435-9/211740740_10161365700035031_7415347136007861351_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=vq62_ZS3ZAEAX_3Sf-l&tn=CPLMNQlGA3lfzFqG&_nc_ht=scontent.fman2-1.fna&oh=d492a7045b1247d5d88e0a072fae415a&oe=60E3BB76)
 
 # 💻🌎Hello world!!!🌎💻
@@ -13,8 +11,8 @@ Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧
 &nbsp;
 &nbsp;
 
-- 🔭 I’m currently working on - creating full-stack projects and finding a job
-- 🌱 I’m currently learning - ![](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)Vue, and working my darn hardest to deepen my knowledge of algorithms and data-structures
+- 🔭 I’m currently working on - creating full-stack projects and finding a job in dev!
+- 🌱 I’m currently learning - ![](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vue-dot-js&logoColor=%234FC08D), and working very very hard to deepen my knowledge of algorithms and data-structures
 - ⚡ Fun fact: I share my birthday with Whoopi Goldberg!
 
 &nbsp;
@@ -27,12 +25,18 @@ Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧
 <a href="https://github.com/hyperkarmic/hyperkarmic">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyperkarmic&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Simon Myers's GitHub Stats" />
 </a>
+&nbsp;
 
 ## 📈 Codewars Stats 📈
 
+- when preparing for bootcamp I spent a lot of time on codewars. I learned a lot and really enjoyed it!!!
+
 ![Alt Text](./codewars.jpg)
+&nbsp;
 
 ## 📈 Leetcode Stats 📈
+
+- Currently, I do at least one coding kata per day, on top of my technical reading, and project development. I've found Leetcode to be a brilliant resource. As you can see...I've been busy!!!
 
 ![Alt Text](./leetstats.jpg)
 
