@@ -8,7 +8,8 @@ I'm Simon. I'm a developer from Manchester, England. I recently finished a codin
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![]("https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"&color=2bbc8a)
 
 ![](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
