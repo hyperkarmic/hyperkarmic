@@ -13,7 +13,7 @@
 
 # 💻🌎Hello world!!!🌎💻
 
-Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧️☂️. I recently finished a coding bootcamp. I'm presently honing my skills - and looking forward to starting my first coding job in the near future! 43 years on planet Earth - it's time⌚ to move onwards and upwards to my dream career!  I have  just discovered  "Manjaro Linux" and it seriously rocks my world.
+Greetings and salutations! I'm Si, a full stack dev from Manchester, England🌧️☂️. I recently finished a coding bootcamp. I'm presently honing my skills - and looking forward to starting my first coding job in the near future! 43 years on planet Earth - it's time⌚ to move onwards and upwards to my dream career!  I have  just discovered  "Manjaro Linux" and it seriously rocks my world!!!
 
 ## 🔧 Tech & tools I use to build stuff 🔧
 
